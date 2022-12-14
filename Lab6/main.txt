@@ -1,0 +1,17 @@
+\documentclass[a4paper,12pt]{article}
+\pagestyle{empty}   
+\usepackage[left=0.5cm, right=0.5cm, top=0.5cm, bottom=0cm]{geometry} 
+\usepackage[utf8]{inputenc} 
+\usepackage[russian]{babel}
+\usepackage{multicol}
+\usepackage{soulutf8}   %для soul, делающий разрывистый текст
+\usepackage{graphicx}
+\pagestyle{empty}       %убираем номер страницы
+\usepackage{amsmath}    %для \tag
+
+\begin{document}
+
+\input{title_page}
+\input{kvant_1991_2}
+
+\end{document}
